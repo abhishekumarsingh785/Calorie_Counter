@@ -1,4 +1,4 @@
-# 🚀 Excited to Share My New Project: Calorie Calculator App! 🍲
+# Calorie Calculator App 🍲
 
 ![Calorie Calculator Interface](interface.png)
 
