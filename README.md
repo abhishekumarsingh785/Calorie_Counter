@@ -31,20 +31,9 @@ Try it live here: [Calorie Calculator App](https://caloriecalculatorv1.azurewebs
 5. **User-Friendly Interface**:
    - Built with **Streamlit** for a sleek and intuitive user experience.
 
-6. **Customizable API Keys**:
-   - Users can configure a custom Google API key for enhanced security.
 
 ---
 
-## 🚀 Technology Stack
-
-- **AI Models**: Gemini 2.0 multimodal LLM
-- **Web Scraping**: DuckDuckGo integration for calorie data retrieval
-- **Image Processing**: Pillow library
-- **Frontend**: Streamlit
-- **Deployment**: Dockerized app hosted on Azure App Service
-
----
 
 ## 📚 How It Works
 
@@ -60,6 +49,16 @@ Try it live here: [Calorie Calculator App](https://caloriecalculatorv1.azurewebs
      - Calorie content per dish with reference links
      - Total calories
      - Healthy dietary tips or alternatives
+
+---
+
+## 🚀 Technology Stack
+
+- **AI Models**: Gemini 2.0 multimodal LLM
+- **Web Scraping**: DuckDuckGo integration for calorie data retrieval
+- **Image Processing**: Pillow library
+- **Frontend**: Streamlit
+- **Deployment**: Dockerized app hosted on Azure App Service
 
 ---
 
