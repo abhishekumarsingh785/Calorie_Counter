@@ -1,0 +1,5 @@
+streamlit
+Pillow
+phidata
+duckduckgo-search
+google-generativeai
