@@ -1,4 +1,4 @@
-# Calorie Calculator App 🍲
+# 🍲 Calorie Calculator App 
 
 ![Calorie Calculator Interface](interface.png)
 
